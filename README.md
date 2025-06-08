@@ -37,7 +37,7 @@ I bring a mission-aligned mindset to security, combining a foundation in complia
 ## 📫 Let’s Connect
 
 - 📝 Blog coming soon via [GitHub Pages](https://pages.github.com/)  
-- 🐦 Optional Twitter or LinkedIn links if you'd like to include  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/crbeasley9)
 - 💬 Always open to conversations about RE, compliance, and career pivots in cyber
 
 ---
