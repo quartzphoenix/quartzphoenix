@@ -1,45 +1,61 @@
-# 👋 Welcome
+# 👋 Welcome to QuartzPhoenix's ISSE Portfolio
 
-**Hi, I’m QuartzPhoenix** — a second-career cybersecurity professional exploring the technical depths of **reverse engineering** and **low-level software analysis**.
-
-I bring a mission-aligned mindset to security, combining a foundation in compliance and risk with a growing focus on binary analysis, system internals, and software behavior.
-
----
-
-## 🔍 What I’m Working On
-
-- 🧠 Building technical depth in **reverse engineering** with tools like Ghidra, Cutter, and Radare2  
-- 🔐 Studying **malware behavior**, **binary unpacking**, and **dynamic analysis**  
-- ⚙️ Learning from real-world samples in a **controlled lab** environment using **FlareVM**  
-- 📚 Documenting my journey with hands-on notes, lab walkthroughs, and tool setup guides
+🔐 **Information Systems Security Engineer (ISSE)**  
+🎯 Specializing in **Secure System Architecture** | Mission-Aligned | Compliance-Driven
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🧭 About This Repository
 
-- **Reverse Engineering**: Ghidra, x64dbg, Radare2, Cutter  
-- **Dynamic Analysis**: Process Monitor, Procmon, Wireshark, Cuckoo Sandbox  
-- **Programming**: C, Assembly (x86), Python  
-- **Environments**: FlareVM, Ubuntu, VirtualBox, Remnux  
-- **Compliance Background**: RMF, NIST SP 800-series, POA&M Analysis
+This repository documents my professional development and technical journey as I transition from ISSO to ISSE. It includes system architecture artifacts, compliance-aligned design practices, and reference materials aligned with Department of Defense frameworks, NIST RMF, and Zero Trust principles.
 
 ---
 
-## 📌 Pinned Repositories (Coming Soon)
+## 🔍 Focus Areas
 
-- `re-labs`: Guided RE labs with notes, binaries (where legal), and walkthroughs  
-- `malware-analysis-journal`: My evolving notes, tools, and research in malware and binary analysis  
-- `flarevm-setup`: Step-by-step lab setup for FlareVM on a Linux host  
-- `compliance-to-technical`: A roadmap for transitioning from GRC to technical analysis in cybersecurity
-
----
-
-## 📫 Let’s Connect
-
-- 📝 Blog coming soon via [GitHub Pages](https://pages.github.com/)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/crbeasley9)
-- 💬 Always open to conversations about RE, compliance, and career pivots in cyber
+- **Secure System Architecture**
+- **System Engineering + RMF Integration**
+- **Policy Enforcement & Identity Management (ICAM)**
+- **STIG, SCAP, and Control Implementation**
+- **Zero Trust Architecture (ZTA)** Modeling
 
 ---
 
-_“Reverse engineering software and systems to uncover what hides beneath. Cybersecurity through clarity, persistence, and mission-aligned analysis.”_
+## 🛠️ Key Sections
+
+| Folder      | Purpose                                                      |
+| ----------- | ------------------------------------------------------------ |
+| `docs/`     | Reference materials, notes, and study artifacts              |
+| `projects/` | Secure architecture modeling and RMF-aligned implementations |
+| `diagrams/` | DoDAF/C4 models and visual system architecture representations |
+| `research/` | Applied research notes and whitepaper drafts                 |
+
+---
+
+## 🔗 Other Repositories
+
+| Repo                                                         | Description                                                  |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [ISSE-Lab-Env](https://github.com/yourusername/ISSE-Lab-Env) | My standalone Ubuntu-based lab environment setup for ISSE tools and sandboxing |
+| [ZTA-Simulation](https://github.com/yourusername/ZTA-Simulation) | (Optional future) Zero Trust policy simulation using OPA and Keycloak |
+| [Policy-Automation-Scripts](https://github.com/yourusername/Policy-Automation-Scripts) | Bash and Python automation scripts for compliance tracking and control enforcement |
+
+---
+
+## 💬 Connect With Me
+
+📧 Email: `your.email@domain.com`  
+🌐 LinkedIn: [linkedin.com/in/QuartzPhoenix](https://linkedin.com/in/QuartzPhoenix)
+
+---
+
+> 🧠 _"Security is not a feature — it’s a mindset embedded in every layer of system design."_  
+> — QuartzPhoenix
+
+---
+
+## 🛡️ Disclaimer
+
+All materials in this repository — including diagrams, configurations, and documentation — are derived from public frameworks (e.g., NIST, MITRE, CISA) and/or fictional systems created for training and demonstration purposes.
+
+No real-world agency, environment, or operational data is represented. All content has been sanitized or created for illustrative purposes only.
