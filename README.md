@@ -7,8 +7,7 @@
 
 ## 🧭 About This Portfolio
 
-This portfolio documents my technical exploration and continuous learning in secure system architecture, risk-aligned compliance, and Zero Trust design.  
-It includes architecture artifacts, RMF-aligned frameworks, and personal research projects using public standards such as NIST SP 800-53, SP 800-207, and SP 800-160.
+This portfolio documents my technical exploration and continuous learning in secure system architecture, risk-aligned compliance, and Zero Trust design.  It includes architecture artifacts, RMF-aligned frameworks, and personal research projects using public standards such as NIST SP 800-53, SP 800-207, and SP 800-160.
 
 ---
 
