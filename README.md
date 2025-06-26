@@ -46,8 +46,8 @@ It includes architecture artifacts, RMF-aligned frameworks, and personal researc
 
 ## 💬 Connect With Me
 
-📧 Email: `your.email@domain.com`  
-🌐 LinkedIn: [linkedin.com/in/QuartzPhoenix](https://linkedin.com/in/QuartzPhoenix)
+📧 Email: `quartzphoenix@protonmail.com`
+🌐 LinkedIn: [linkedin.com/in/crbeasley9](https://linkedin.com/in/crbeasley9)
 
 ---
 
