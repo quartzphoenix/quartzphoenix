@@ -50,7 +50,7 @@ This portfolio documents my applied learning and research in secure system archi
 
 ---
 
-## 🧠 “Security is not a feature — it’s a mindset embedded in every layer of system design.”  
+🧠 “Security is not a feature — it’s a mindset embedded in every layer of system design.”  
 — QuartzPhoenix
 
 ---
