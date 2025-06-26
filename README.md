@@ -40,6 +40,8 @@ This portfolio documents my technical exploration and continuous learning in sec
 |------------|-------------|
 | [ISSE-Lab-Env](https://github.com/yourusername/ISSE-Lab-Env) | Ubuntu-based lab environment for testing secure system tools |
 | [ZTA-Simulation](https://github.com/yourusername/ZTA-Simulation) | (Optional) Hands-on Zero Trust simulation using OPA and Keycloak |
+| [ISSE Architecture Projects](https://github.com/yourusername/isse-architecture-projects) | Focused personal projects for secure system design, lifecycle security, and ZTA |
+| [ISSE Architecture Roadmap](https://github.com/yourusername/isse-architecture-roadmap) | Learning roadmap and modular templates for building an ISSE-aligned portfolio |
 
 ---
 
