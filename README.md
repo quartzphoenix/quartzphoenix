@@ -1,25 +1,26 @@
-# 🔧 QuartzPhoenix's Secure Software Development Portfolio  
-🛡️ **Secure Software Developer (Embedded-Focused)**  
-🎯 Specializing in Embedded Security | Memory-Safe Systems | Secure Tooling for Mission-Critical Applications  
+# 🧬 QuartzPhoenix's Reverse Engineering & Malware Analysis Portfolio  
+🧠 **Reverse Engineering Specialist | Malware Analyst | Threat Tooling Researcher**  
+🎯 Specializing in Static/Dynamic Malware Analysis | Reverse Engineering Automation | National Defense-Aligned Threat Research  
 
 ---
 
 ## 🧭 About This Portfolio  
-This portfolio showcases my applied learning, research, and development work in secure software systems, with a strong foundation in embedded firmware and growing capabilities in secure systems programming and DevSecOps tooling. My focus is on building security into the core of mission-critical, resource-constrained systems while also exploring adjacent areas like CI/CD security automation, SBOM integrity, and memory-safe application design.
+This portfolio documents my technical transition from compliance-based roles into the deep technical domain of reverse engineering and malware analysis. It showcases my development through graduate research, hands-on tooling, CTF participation, and open-source contributions. My work is focused on analyzing evasive binaries, building malware detection capabilities, and automating reverse engineering workflows to defend mission-critical systems.
 
-Projects and materials align with security frameworks such as NIST SP 800-160 Vol. 1/2, SP 800-53, and secure software practices including SLSA, OpenSSF, and OWASP SAMM. You’ll find architecture artifacts, secure firmware code in C/C++ and Rust, tooling demonstrations, and Zero Trust-aligned security models.
+All projects align with real-world malware challenges and national cyber defense objectives. You'll find dynamic/static analysis case studies, custom tooling in Python, YARA rule development, and documentation of CTF and research work intended to support my MSCS in Cyber Operations and future PhD goals.
 
 ---
 
 ## 🔍 Focus Areas  
-- Secure Embedded Software & Firmware Development  
-- Memory-Safe Programming in C, C++, and Rust  
-- Microcontroller & Embedded System Security (ARM Cortex, AVR, RISC-V)  
-- Secure Boot, Firmware Integrity, and Software Supply Chain Trust  
-- Threat Modeling for Embedded and Linux-Based Systems  
-- CI/CD Security Pipelines and Static Analysis Automation  
-- SBOM Generation and Secure Build Workflows  
-- Application of NIST SP 800-160, SLSA, and OpenSSF Best Practices  
+- Static & Dynamic Malware Analysis (x86/x64/PE)  
+- Reverse Engineering with Ghidra, IDA Free, Binary Ninja CE  
+- Malware Behavior Analysis via CAPE Sandbox, ProcMon, Sysinternals  
+- Threat Emulation & Payload Deobfuscation  
+- YARA Rule Development & Signature Engineering  
+- Python-Based Automation for Analysis & Detection  
+- Participation in RE-focused CTFs (Flare-On, Hack The Box, Google CTF)  
+- Research in Malware Classification & RE Automation  
+- Public Tooling & Write-Ups for Community and Academic Use  
 
 ---
 
@@ -27,12 +28,10 @@ Projects and materials align with security frameworks such as NIST SP 800-160 Vo
 
 | Folder | Purpose |
 |--------|---------|
-| `docs/` | Reference materials, notes, and security design frameworks |
-| `firmware-security-lab/` | Secure coding practices, firmware hardening, and memory safety demonstrations |
-| `embedded-architecture/` | System models, trust boundaries, and lifecycle planning artifacts |
-| `secure-boot-designs/` | Conceptual secure bootloader and firmware validation mechanisms |
-| `zt-embedded-models/` | Adapted Zero Trust models for embedded systems |
-| `secure-software-projects/` | General secure software tools (e.g., CLI apps, SBOM tools, static analyzers) |
+| `docs/` | Reference materials: IDP, tool usage notes, lab architecture |
+| `showcase/` | Curated YARA rules, analysis highlights, top CTF solutions |
+| `roadmap/` | Milestone tracking across the 5-phase IDP (2025–2045) |
+| `images/` | Visuals: Lab setups, automation pipelines, analysis flows |
 
 ---
 
@@ -40,25 +39,24 @@ Projects and materials align with security frameworks such as NIST SP 800-160 Vo
 
 | Repository | Description |
 |------------|-------------|
-| `embedded-lab-env` | Preconfigured Linux-based lab for firmware analysis, emulation, and secure build chains |
-| `secure-embedded-dev-projects` | Primary project repository for secure embedded systems development, including firmware demos, system prototypes, and documentation |
-| `embedded-security-projects` | Standalone projects focused on embedded system vulnerabilities and software-hardening techniques |
-| `secure-firmware-templates` | Bare-metal and RTOS-based firmware templates with integrated security patterns |
-| `embedded-systems-roadmap` | Structured learning path and milestones for becoming a secure embedded developer |
-| `secure-software-projects` | Tools and learning projects focused on software supply chain, static analysis, and secure programming practices |
+| `malware-lab-setup` | Environment setup for FLARE VM, CAPE Sandbox, dynamic analysis tooling |
+| `malware-analysis-samples` | Technical write-ups of real-world samples (ANY.RUN, MalwareBazaar) |
+| `yara-rules-public` | Public YARA rules with detection rationale and tuning notes |
+| `re-ctf-writeups` | Reverse engineering challenge write-ups (Flare-On, Hack The Box, etc.) |
+| `re-scripts-tools` | Python tools, automation scripts, Ghidra/IDA plugins, workflow utilities |
+| `research-notes` | Malware automation ideas, PhD prep notes, and research outlines |
 
 ---
 
-## 🔬 In Development
+## 🧪 Currently Developing
 
-I'm currently expanding into secure software tooling and DevSecOps practices, including:
+I’m actively working on:
 
-- Static analysis rule writing (C/C++, AST)
-- Secure CLI tooling in Rust
-- SBOM generator and validator
-- Secure Linux daemon sandboxing
-
-These projects will be added to the `secure-software-projects` section over time.
+- PE parsing and obfuscation detection with `pefile` and `lief`
+- Custom YARA rules for evasive droppers and packers
+- IDA Python scripts for control flow extraction and string recovery
+- Write-ups for the Flare-On and Google CTF reverse engineering challenges
+- Research documentation aligned with PhD planning at DSU
 
 ---
 
@@ -66,10 +64,10 @@ These projects will be added to the `secure-software-projects` section over time
 📧 **Email:** quartzphoenix@protonmail.com  
 🌐 **LinkedIn:** [linkedin.com/in/crbeasley9](https://linkedin.com/in/crbeasley9)
 
-> *“Security is not a feature — it’s a mindset embedded at the hardware-software interface.”*  
+> *“Understanding malware isn’t just about reversing code — it’s about reversing the adversary’s mindset.”*  
 > — **QuartzPhoenix**
 
 ---
 
-## 🛡️ Disclaimer  
-All materials in this repository — including source code, diagrams, and architecture models — are for educational and demonstration purposes only. They are based on public frameworks (e.g., NIST, MITRE, CISA) and fictional systems. No real-world operational systems or environments are represented.
+## ⚠️ Disclaimer  
+All samples, scripts, and analysis in this portfolio are for **educational and research purposes only**. No real-world malware is executed outside controlled, isolated lab environments. All malware samples are sourced from public repositories like ANY.RUN, MalwareBazaar, or CTF challenges. This work is non-operational and does not represent real systems.
