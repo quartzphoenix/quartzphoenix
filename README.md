@@ -57,6 +57,17 @@ Learn more via the [`docs/`](https://github.com/QuartzPhoenix?tab=repositories) 
 
 ---
 
+## 🔭 Project Roadmap (2025–2026)
+
+- [x] Setup CPS RE Lab on Ubuntu
+- [x] Launch GitHub and portfolio presence
+- [ ] Publish first case study on firmware backdoor detection
+- [ ] Build boot-chain visualization prototype
+- [ ] Submit RE poster to SANS or BSides
+- [ ] Develop beta version of firmware-trust-framework
+
+---
+
 ## 💬 Connect With Me  
 📧 **Email:** quartzphoenix@protonmail.com  
 🌐 **LinkedIn:** [linkedin.com/in/crbeasley9](https://linkedin.com/in/crbeasley9)
