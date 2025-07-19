@@ -6,7 +6,7 @@ No code, documentation, or analysis reflects classified information, proprietary
 
 Any resemblance to actual systems is coincidental or based entirely on publicly available, open-source research.
 
-The author maintains full compliance with ethical, legal, and clearance-related obligations.  
+The author maintains full compliance with ethical, legal, and clearance-related obligations.
 
 All reverse engineering, firmware analysis, and binary research documented here is conducted within **unclassified, publicly accessible domains** and does not involve any insider knowledge of restricted or government systems.
 
